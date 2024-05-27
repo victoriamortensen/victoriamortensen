@@ -1,6 +1,6 @@
 ### Hi! i am Victoria Mortensen 👋
 
-I’m Victoria, a happy Product Manager / Engineer from Philly, who makes web products that are intuitive, accessible, beautiful, and fun to use. I love the intersection between pushing super detailed CSS on a nifty React Component to production AND making Figma drafts as a Product Manager to drive business outcomes. Applying my entrepreneurial startup genes as best as I can along the way 
+I’m Victoria, a happy Product Manager with an engineering background from Philly+NYC, who makes SaaS products that are intuitive, accessible, beautiful, and fun to use. I love the intersection between super detailed and highly technical requirements (including hardware) and making mocks in Figma, all the while focusing on driving proper business outcomes. Applying my entrepreneurial startup genes as best as I can along the way! :)
 
 - 🕸 [A spotlight on me (Personal Website)]( https://victoria.glavindmortensen.com/)
 - 👩🏻‍💼 [Ping me for opportunities (LinkedIn)](https://www.linkedin.com/in/victoriamortensen/)
